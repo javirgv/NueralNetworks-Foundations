@@ -1,4 +1,4 @@
-# Neural Networks and Autoencoders in Python
+# Autoencoders and TensorFlow
 
 *Advanced undergraduate machine learning coursework project (University College Dublin)*
 
